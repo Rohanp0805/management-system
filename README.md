@@ -1,1 +1,1 @@
-# python-notes
+# management-python-project
